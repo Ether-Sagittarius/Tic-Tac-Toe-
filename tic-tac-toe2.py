@@ -3,7 +3,7 @@
 # Plays the game of tic-tac-toe against a human opponent
 #
 # Author = Kanishk Pachauri
-# Date = 6 October 2013
+# Date = 5 May 2020
 # Python version 3.3.2
 #
 
